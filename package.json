@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "name": "projetoindividual3-estao-servidos",
+  "description": "Neste projeto, foi desenvolvido um servidor json (Json-server), que posteriormente será utilizado no trabalho em grupo.",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipami/ProjetoIndividual3-Estao-Servidos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipami/ProjetoIndividual3-Estao-Servidos/issues"
+  },
+  "homepage": "https://github.com/ipami/ProjetoIndividual3-Estao-Servidos#readme"
+}
