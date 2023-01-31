@@ -1,9 +1,113 @@
 {
-    "notas":[
+    "client":[
           {
-                "id":1,
-                "titulo": "Estudar JS",
-                "status": true
+                "id": 1,
+                "name": "João Silva",
+                "login": "joao1",
+                "pass": "adm123",
+                "cpf": "12312312312",
+                "street": "Rua Um",
+                "number": 14,
+                "neighborhood": "Um bairro",
+                "city": "Rio de Janeiro",
+                "cep": "1212312"
+                
+          },
+          {
+                "id": 2,
+                "name": "Maria Silva",
+                "login": "maria1",
+                "pass": "adm123",
+                "cpf": "12312312313",
+                "street": "Rua Um",
+                "number": 14,
+                "neighborhood": "Um bairro",
+                "city": "Rio de Janeiro",
+                "cep": "1212312"
+                
+          },
+          {
+                "id": 3,
+                "name": "Roberto Silva",
+                "login": "roberto1",
+                "pass": "adm123",
+                "cpf": "12312312314",
+                "street": "Rua Um",
+                "number": 14,
+                "neighborhood": "Um bairro",
+                "city": "Rio de Janeiro",
+                "cep": "1212312"
+                
           }
-    ]
+          
+    ],
+
+    "book":[
+          {
+                "id": 1,
+                "name": "Torto arado",
+                "publishing": "Todavia",
+                "author": "Vieira Junior, Itamar",
+                "description": "Um texto épico e lírico, realista e mágico que revela, para além de sua trama, um poderoso elemento de insubordinação social. Vencedor do prêmio Leya 2018. Nas profundezas do sertão baiano, as irmãs Bibiana e Belonísia encontram uma velha e misteriosa faca na mala guardada sob a cama da avó. Ocorre então um acidente. E para sempre suas vidas estarão ligadas — a ponto de uma precisar ser a voz da outra. Numa trama conduzida com maestria e com uma prosa melodiosa, o romance conta uma história de vida e morte, de combate e redenção.",
+                "price": "49,90",
+                "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198603-1200-auto?v=638071357137270000&width=1200&height=auto&aspect=true"
+                
+                
+          },
+          
+          {
+                "id": 2,
+                "name": "A hipótese do amor",
+                "publishing": "Arqueiro",
+                "author": "Hazelwood, Ali",
+                "description": "Quando um namoro de mentira entre cientistas encontra a irresistível força da atração, todas as teorias cuidadosamente calculadas sobre o amor são postas à prova.Com personagens cativantes e diálogos afiados, este livro engraçado, sexy e inteligente se tornou uma das grandes sensações do TikTok. Olive Smith, aluna do doutorado em Biologia da Universidade Stanford, acredita na ciência não em algo incontrolável como o amor. Depois de sair algumas vezes com Jeremy, ela percebe que sua melhor amiga gosta dele e decide juntá-los. Para mostrar que está feliz com essa escolha, Olive precisa ser convincente: afinal, cientistas exigem provas. Sem muitas opções, ela resolve inventar um namoro de mentira e, num momento de pânico, beija o primeiro homem que vê pela frente. O problema é que esse homem é Adam Carlsen, um jovem professor de prestígio conhecido por levar os alunos às lágrimas. Por isso, Olive fica chocada quando o tirano dos laboratórios concorda em levar adiante a farsa e fingir ser seu namorado. De repente, seu pequeno experimento parece perigosamente próximo da combustão e aquela pequena possibilidade científica, que era apenas uma hipótese sobre o amor, transforma-se em algo totalmente inesperado.",
+                "price": "42,31",
+                "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198348-1200-auto?v=638067920617830000&width=1200&height=auto&aspect=true"
+                
+                
+          },
+          {
+                "id": 3,
+                "name": "Verity",
+                "publishing": "Galera",
+                "author": "Hoover, Colleen",
+                "description": " Finalista do prêmio Goodreads como melhor romance de 2019.  Um casal apaixonado. Uma intrusa. Três mentes doentias.  Verity Crawford é a autora best-seller por trás de uma série de sucesso. Ela está no auge de sua carreira, aclamada pela crítica e pelo público, no entanto, um súbito e terrível acidente acaba interrompendo suas atividades, deixando-a sem condições de concluir a história... E é nessa complexa circunstância que surge Lowen Ashleigh, uma escritora à beira da falência convidada a escrever, sob um pseudônimo, os três livros restantes da já consolidada série.Para que consiga entender melhor o processo criativo de Verity com relação aos livros publicados e, ainda, tentar descobrir seus possíveis planos para os próximos, Lowen decide passar alguns dias na casa dos Crawford, imersa no caótico escritório de Verity - e, lá, encontra uma espécie de autobiografia onde a escritora narra os fatos acontecidos desde o dia em que conhece Jeremy, seu marido, até os instantes imediatamente anteriores a seu acidente - incluindo sua perspectiva sobre as tragédias ocorridas às filhas do casal.  Quanto mais o tempo passa, mais Lowen se percebe envolvida em uma confusa rede de mentiras e segredos, e, lentamente, adquire sua própria posição no jogo psicológico que rodeia aquela casa. Emocional e fisicamente atraída por Jeremy, ela precisa decidir: expor uma versão que nem ele conhece sobre a própria esposa ou manter o sigilo dos escritos de Verity? Em em Verity, Colleen Hoover se afasta do estilo que a consagrou, os romances, para se aventurar em um suspense psicológico que deixou todo o mercado editorial sem palavras de tão avassalador. Através de uma narrativa perturbadora e chocante, em Verity explora o lado mais sombrio das relações humanas deixando uma surpresinha chocante no final. Aviso: em Verity não vai derreter seu coração. Vai fritar sua alma. em Kindle Crack  Distintamente sinistro, com um verdadeiro toque de Colleen Hoover. Estive esperando um thriller como esse por anos. Tarryn Fisher, coautora da série em Nunca Jamais",
+                "price": "39,90",
+                "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198351-1200-auto?v=638067932803730000&width=1200&height=auto&aspect=true"          
+                
+          }
+          
+    ],
+
+    "employee":[
+          {
+                "id": 1,
+                "name": "João Alves",
+                "office": "Auxilar de Faturamento",
+                "department": "Comercial"
+        
+          },
+          {
+                "id": 2,
+                "name": "Julio Silva",
+                "office": "Auxilar Administrativo",
+                "department": "Logística"
+        
+          },
+          {
+                "id": 3,
+                "name": "Bianca Costa",
+                "office": "Auxilar Administrativo",
+                "department": "Logística"
+        
+          },
+          {
+                "id": 4,
+                "name": "Lindalva Cristina",
+                "office": "Auxilar Administrativo",
+                "department": "Logística"
+        
+          }
+      
+]
 }
