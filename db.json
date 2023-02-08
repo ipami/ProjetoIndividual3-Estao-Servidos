@@ -1,113 +1,338 @@
 {
-    "client":[
-          {
-                "id": 1,
-                "name": "João Silva",
-                "login": "joao1",
-                "pass": "adm123",
-                "cpf": "12312312312",
-                "street": "Rua Um",
-                "number": 14,
-                "neighborhood": "Um bairro",
-                "city": "Rio de Janeiro",
-                "cep": "1212312"
-                
-          },
-          {
-                "id": 2,
-                "name": "Maria Silva",
-                "login": "maria1",
-                "pass": "adm123",
-                "cpf": "12312312313",
-                "street": "Rua Um",
-                "number": 14,
-                "neighborhood": "Um bairro",
-                "city": "Rio de Janeiro",
-                "cep": "1212312"
-                
-          },
-          {
-                "id": 3,
-                "name": "Roberto Silva",
-                "login": "roberto1",
-                "pass": "adm123",
-                "cpf": "12312312314",
-                "street": "Rua Um",
-                "number": 14,
-                "neighborhood": "Um bairro",
-                "city": "Rio de Janeiro",
-                "cep": "1212312"
-                
-          }
-          
-    ],
-
-    "book":[
-          {
-                "id": 1,
-                "name": "Torto arado",
-                "publishing": "Todavia",
-                "author": "Vieira Junior, Itamar",
-                "description": "Um texto épico e lírico, realista e mágico que revela, para além de sua trama, um poderoso elemento de insubordinação social. Vencedor do prêmio Leya 2018. Nas profundezas do sertão baiano, as irmãs Bibiana e Belonísia encontram uma velha e misteriosa faca na mala guardada sob a cama da avó. Ocorre então um acidente. E para sempre suas vidas estarão ligadas — a ponto de uma precisar ser a voz da outra. Numa trama conduzida com maestria e com uma prosa melodiosa, o romance conta uma história de vida e morte, de combate e redenção.",
-                "price": "49.90",
-                "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198603-1200-auto?v=638071357137270000&width=1200&height=auto&aspect=true"
-                
-                
-          },
-          
-          {
-                "id": 2,
-                "name": "A hipótese do amor",
-                "publishing": "Arqueiro",
-                "author": "Hazelwood, Ali",
-                "description": "Quando um namoro de mentira entre cientistas encontra a irresistível força da atração, todas as teorias cuidadosamente calculadas sobre o amor são postas à prova.Com personagens cativantes e diálogos afiados, este livro engraçado, sexy e inteligente se tornou uma das grandes sensações do TikTok. Olive Smith, aluna do doutorado em Biologia da Universidade Stanford, acredita na ciência não em algo incontrolável como o amor. Depois de sair algumas vezes com Jeremy, ela percebe que sua melhor amiga gosta dele e decide juntá-los. Para mostrar que está feliz com essa escolha, Olive precisa ser convincente: afinal, cientistas exigem provas. Sem muitas opções, ela resolve inventar um namoro de mentira e, num momento de pânico, beija o primeiro homem que vê pela frente. O problema é que esse homem é Adam Carlsen, um jovem professor de prestígio conhecido por levar os alunos às lágrimas. Por isso, Olive fica chocada quando o tirano dos laboratórios concorda em levar adiante a farsa e fingir ser seu namorado. De repente, seu pequeno experimento parece perigosamente próximo da combustão e aquela pequena possibilidade científica, que era apenas uma hipótese sobre o amor, transforma-se em algo totalmente inesperado.",
-                "price": "42.31",
-                "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198348-1200-auto?v=638067920617830000&width=1200&height=auto&aspect=true"
-                
-                
-          },
-          {
-                "id": 3,
-                "name": "Verity",
-                "publishing": "Galera",
-                "author": "Hoover, Colleen",
-                "description": " Finalista do prêmio Goodreads como melhor romance de 2019.  Um casal apaixonado. Uma intrusa. Três mentes doentias.  Verity Crawford é a autora best-seller por trás de uma série de sucesso. Ela está no auge de sua carreira, aclamada pela crítica e pelo público, no entanto, um súbito e terrível acidente acaba interrompendo suas atividades, deixando-a sem condições de concluir a história... E é nessa complexa circunstância que surge Lowen Ashleigh, uma escritora à beira da falência convidada a escrever, sob um pseudônimo, os três livros restantes da já consolidada série.Para que consiga entender melhor o processo criativo de Verity com relação aos livros publicados e, ainda, tentar descobrir seus possíveis planos para os próximos, Lowen decide passar alguns dias na casa dos Crawford, imersa no caótico escritório de Verity - e, lá, encontra uma espécie de autobiografia onde a escritora narra os fatos acontecidos desde o dia em que conhece Jeremy, seu marido, até os instantes imediatamente anteriores a seu acidente - incluindo sua perspectiva sobre as tragédias ocorridas às filhas do casal.  Quanto mais o tempo passa, mais Lowen se percebe envolvida em uma confusa rede de mentiras e segredos, e, lentamente, adquire sua própria posição no jogo psicológico que rodeia aquela casa. Emocional e fisicamente atraída por Jeremy, ela precisa decidir: expor uma versão que nem ele conhece sobre a própria esposa ou manter o sigilo dos escritos de Verity? Em em Verity, Colleen Hoover se afasta do estilo que a consagrou, os romances, para se aventurar em um suspense psicológico que deixou todo o mercado editorial sem palavras de tão avassalador. Através de uma narrativa perturbadora e chocante, em Verity explora o lado mais sombrio das relações humanas deixando uma surpresinha chocante no final. Aviso: em Verity não vai derreter seu coração. Vai fritar sua alma. em Kindle Crack  Distintamente sinistro, com um verdadeiro toque de Colleen Hoover. Estive esperando um thriller como esse por anos. Tarryn Fisher, coautora da série em Nunca Jamais",
-                "price": "39.90",
-                "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198351-1200-auto?v=638067932803730000&width=1200&height=auto&aspect=true"          
-                
-          }
-          
-    ],
-
-    "employee":[
-          {
-                "id": 1,
-                "name": "João Alves",
-                "office": "Auxilar de Faturamento",
-                "department": "Comercial"
-        
-          },
-          {
-                "id": 2,
-                "name": "Julio Silva",
-                "office": "Auxilar Administrativo",
-                "department": "Logística"
-        
-          },
-          {
-                "id": 3,
-                "name": "Bianca Costa",
-                "office": "Auxilar Administrativo",
-                "department": "Logística"
-        
-          },
-          {
-                "id": 4,
-                "name": "Lindalva Cristina",
-                "office": "Auxilar Administrativo",
-                "department": "Logística"
-        
-          }
-      
-]
+      "client": [
+            {
+                  "id": 1,
+                  "name": "João Silva",
+                  "login": "joao1",
+                  "pass": "adm123",
+                  "cpf": "12312312312",
+                  "street": "Rua Um",
+                  "number": 14,
+                  "neighborhood": "Um bairro",
+                  "city": "Rio de Janeiro",
+                  "cep": "1212312"
+            },
+            {
+                  "id": 2,
+                  "name": "Maria Silva",
+                  "login": "maria1",
+                  "pass": "adm123",
+                  "cpf": "12312312313",
+                  "street": "Rua Um",
+                  "number": 14,
+                  "neighborhood": "Um bairro",
+                  "city": "Rio de Janeiro",
+                  "cep": "1212312"
+            },
+            {
+                  "id": 3,
+                  "name": "Roberto Silva",
+                  "login": "roberto1",
+                  "pass": "adm123",
+                  "cpf": "12312312314",
+                  "street": "Rua Um",
+                  "number": 14,
+                  "neighborhood": "Um bairro",
+                  "city": "Rio de Janeiro",
+                  "cep": "1212312"
+            }
+      ],
+      "book": [
+            {
+                  "id": 1,
+                  "name": "Torto arado",
+                  "publishing": "Todavia",
+                  "author": "Vieira Junior, Itamar",
+                  "description": "Um texto épico e lírico, realista e mágico que revela, para além de sua trama, um poderoso elemento de insubordinação social. Vencedor do prêmio Leya 2018. Nas profundezas do sertão baiano, as irmãs Bibiana e Belonísia encontram uma velha e misteriosa faca na mala guardada sob a cama da avó. Ocorre então um acidente. E para sempre suas vidas estarão ligadas — a ponto de uma precisar ser a voz da outra. Numa trama conduzida com maestria e com uma prosa melodiosa, o romance conta uma história de vida e morte, de combate e redenção.",
+                  "price": "49.90",
+                  "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198603-1200-auto?v=638071357137270000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 2,
+                  "name": "A hipótese do amor",
+                  "publishing": "Arqueiro",
+                  "author": "Hazelwood, Ali",
+                  "description": "Quando um namoro de mentira entre cientistas encontra a irresistível força da atração, todas as teorias cuidadosamente calculadas sobre o amor são postas à prova.Com personagens cativantes e diálogos afiados, este livro engraçado, sexy e inteligente se tornou uma das grandes sensações do TikTok. Olive Smith, aluna do doutorado em Biologia da Universidade Stanford, acredita na ciência não em algo incontrolável como o amor. Depois de sair algumas vezes com Jeremy, ela percebe que sua melhor amiga gosta dele e decide juntá-los. Para mostrar que está feliz com essa escolha, Olive precisa ser convincente: afinal, cientistas exigem provas. Sem muitas opções, ela resolve inventar um namoro de mentira e, num momento de pânico, beija o primeiro homem que vê pela frente. O problema é que esse homem é Adam Carlsen, um jovem professor de prestígio conhecido por levar os alunos às lágrimas. Por isso, Olive fica chocada quando o tirano dos laboratórios concorda em levar adiante a farsa e fingir ser seu namorado. De repente, seu pequeno experimento parece perigosamente próximo da combustão e aquela pequena possibilidade científica, que era apenas uma hipótese sobre o amor, transforma-se em algo totalmente inesperado.",
+                  "price": "42.31",
+                  "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198348-1200-auto?v=638067920617830000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 3,
+                  "name": "Verity",
+                  "publishing": "Galera",
+                  "author": "Hoover, Colleen",
+                  "description": " Finalista do prêmio Goodreads como melhor romance de 2019.  Um casal apaixonado. Uma intrusa. Três mentes doentias.  Verity Crawford é a autora best-seller por trás de uma série de sucesso. Ela está no auge de sua carreira, aclamada pela crítica e pelo público, no entanto, um súbito e terrível acidente acaba interrompendo suas atividades, deixando-a sem condições de concluir a história... E é nessa complexa circunstância que surge Lowen Ashleigh, uma escritora à beira da falência convidada a escrever, sob um pseudônimo, os três livros restantes da já consolidada série.Para que consiga entender melhor o processo criativo de Verity com relação aos livros publicados e, ainda, tentar descobrir seus possíveis planos para os próximos, Lowen decide passar alguns dias na casa dos Crawford, imersa no caótico escritório de Verity - e, lá, encontra uma espécie de autobiografia onde a escritora narra os fatos acontecidos desde o dia em que conhece Jeremy, seu marido, até os instantes imediatamente anteriores a seu acidente - incluindo sua perspectiva sobre as tragédias ocorridas às filhas do casal.  Quanto mais o tempo passa, mais Lowen se percebe envolvida em uma confusa rede de mentiras e segredos, e, lentamente, adquire sua própria posição no jogo psicológico que rodeia aquela casa. Emocional e fisicamente atraída por Jeremy, ela precisa decidir: expor uma versão que nem ele conhece sobre a própria esposa ou manter o sigilo dos escritos de Verity? Em em Verity, Colleen Hoover se afasta do estilo que a consagrou, os romances, para se aventurar em um suspense psicológico que deixou todo o mercado editorial sem palavras de tão avassalador. Através de uma narrativa perturbadora e chocante, em Verity explora o lado mais sombrio das relações humanas deixando uma surpresinha chocante no final. Aviso: em Verity não vai derreter seu coração. Vai fritar sua alma. em Kindle Crack  Distintamente sinistro, com um verdadeiro toque de Colleen Hoover. Estive esperando um thriller como esse por anos. Tarryn Fisher, coautora da série em Nunca Jamais",
+                  "price": "39.90",
+                  "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198351-1200-auto?v=638067932803730000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 4,
+                  "name": "É assim que acaba",
+                  "publishing": "Penguin-Companhia",
+                  "author": "Hoover, Colleen",
+                  "description":"Em É assim que acaba, Colleen Hoover nos apresenta Lily, uma jovem que se mudou de uma cidadezinha do Maine para Boston, se formou em marketing e abriu a própria floricultura. E é em um dos terraços de Boston que ela conhece Ryle, um neurocirurgião confiante, teimoso e talvez até um pouco arrogante, com uma grande aversão a relacionamentos, mas que se sente muito atraído por ela. Quando os dois se apaixonam, Lily se vê no meio de um relacionamento turbulento que não é o que ela esperava. Mas será que ela conseguirá enxergar isso, por mais doloroso que seja?É assim que acaba é uma narrativa poderosa sobre a força necessária para fazer as escolhas certas nas situações mais difíceis. Considerada a obra mais pessoal de Hoover, o livro aborda sem medo alguns tabus da sociedade para explorar a complexidade das relações tóxicas, e como o amor e o abuso muitas vezes coexistem em uma confusão de sentimentos." ,
+                  "price": "39.90" ,
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/198343-1200-auto?v=638067893777630000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 5,
+                  "name": "A Biblioteca da Meia-Noite" ,
+                  "publishing": "Bertrand Brasil" ,
+                  "author": "Haig, Matt" ,
+                  "description":" Biblioteca da Meia-Noite é u m romance incrível que fala dos infinitos rumos que a vida pode tomar e da busca incessante pelo rumo certo. Aos 35 anos, Nora Seed é uma mulher cheia de talentos e poucas conquistas. Arrependida das escolhas que fez no passado, ela vive se perguntando o que poderia ter acontecido caso tivesse vivido de maneira diferente. Após ser demitida e seu gato ser atropelado, Nora vê pouco sentido em sua existência e decide colocar um ponto final em tudo. Porém, quando se vê na Biblioteca da Meia-Noite, Nora ganha uma oportunidade única de viver todas as vidas que poderia ter vivido. Neste lugar entre a vida e a morte, e graças à ajuda de uma velha amiga, Nora pode, finalmente, se mudar para a Austrália, reatar relacionamentos antigos – ou começar outros –, ser uma estrela do rock, uma glaciologista, uma nadadora olímpica... enfim, as opções são infinitas. Mas será que alguma dessas outras vidas é realmente melhor do que a que ela já tem? Em A Biblioteca da Meia-Noite , Nora Seed se vê exatamente na situação pela qual todos gostaríamos de poder passar: voltar no tempo e desfazer algo de que nos arrependemos. Diante dessa possibilidade, Nora faz um mergulho interior viajando pelos livros da Biblioteca da Meia-Noite até entender o que é verdadeiramente importante na vida e o que faz, de fato, com que ela valha a pena ser vivida. " ,
+                  "price":"43.90" ,
+                  "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198354-1200-auto?v=638067945775300000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 6,
+                  "name": "As aventuras de Mike",
+                  "publishing":"Outro Planeta" ,
+                  "author": "Dearo, Gabriel; Digilio, Manu",
+                  "description": "Sabe aquele garoto popular da escola? Que é descolado se veste bem e faz sucesso com as garotas? Pois é, esse com certeza não é o Mike. Na verdade, o Mike é exatamente o contrário de tudo isso! Ele é desastrado, prefere videogames e salgadinhos no lugar de futebol, e é PÉSSIMO com as garotas. Ao lado do seu fiel amigo Nando (que é o ser humano mais distraído do planeta Terra) vão se aventurar em uma competição de biscoitos em busca de um misterioso prêmio que irá mudar suas vidas para sempre. ",
+                  "price":"41.90" ,
+                  "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198484-1200-auto?v=638068180922000000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 7,
+                  "name": "O avesso da pele - Vencedor Jabuti 2021",
+                  "publishing": "Editora Schwarcz SA",
+                  "author":"Tenório, Jeferson" ,
+                  "description": "Um romance sobre identidade e as complexas relações raciais, sobre violência e negritude, O avesso da pele é uma obra contundente no panorama da nova ficção literária brasileira. Vencedor do Prêmio Jabuti na categoria “Romance Literário”. O avesso da pele é a história de Pedro, que, após a morte do pai, assassinado numa desastrosa abordagem policial, sai em busca de resgatar o passado da família e refazer os caminhos paternos. Com uma narrativa sensível e por vezes brutal, Jeferson Tenório traz à superfície um país marcado pelo racismo e por um sistema educacional falido, e um denso relato sobre as relações entre pais e filhos. O que está em jogo é a vida de um homem abalado pelas inevitáveis fraturas existenciais da sua condição de negro em um país racista, um processo de dor, de acerto de contas, mas também de redenção, superação e liberdade. Com habilidade incomum para conceber e estruturar personagens e de lidar com as complexidades e pequenas tragédias das relações familiares, Jeferson Tenório se consolida como uma das vozes mais potentes e estilisticamente corajosas da literatura brasileira contemporânea. " ,
+                  "price":"51.90" ,
+                  "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198494-1200-auto?v=638068192463370000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 8,
+                  "name":"O Hobbit " ,
+                  "publishing": "Casa dos Livros Editora Ltda" ,
+                  "author":"Tolkien, J.R.R." ,
+                  "description": "Bilbo Bolseiro era um dos mais respeitáveis hobbits de todo o Condado até que, um dia, o mago Gandalf bate à sua porta. A partir de então, toda sua vida pacata e campestre soprando anéis de fumaça com seu belo cachimbo começa a mudar. Ele é convocado a participar de uma aventura por ninguém menos do que Thorin Escudo-de-Carvalho, um príncipe do poderoso povo dos Anãos. Esta jornada fará Bilbo, Gandalf e 13 anãos atravessarem a Terra-média, passando por inúmeros perigos, sejam eles, os imensos trols, as Montanhas Nevoentas infestadas de gobelins ou a muito antiga e misteriosa Trevamata, até chegarem (se conseguirem) na Montanha Solitária. Lá está um incalculável tesouro, mas há um porém. Deitado em cima dele está Smaug, o Dourado, um dragão malicioso que... bem, você terá que ler e descobrir. Lançado em 1937, O Hobbit é um divisor de águas na literatura fantástica mundial. Mais de 80 anos após a sua publicação, o livro que antecede os ocorridos em O Senhor dos Anéis continua arrebatando fãs de todas as idades, talvez pelo seu tom brincalhão com uma pitada de magia élfica, ou talvez porque J.R.R. Tolkien tenha escrito o melhor livro infanto-juvenil de todos os tempos.",
+                  "price": "24.90",
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/198617-1200-auto?v=638071395408730000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 9,
+                  "name": "A rainha vermelha" ,
+                  "publishing": "Editora Schwarcz SA",
+                  "author":"Aveyard, Victoria" ,
+                  "description": "O mundo de Mare Barrow é dividido pelo sangue: vermelho ou prateado. Mare e sua família são vermelhos: plebeus, humildes, destinados a servir uma elite prateada cujos poderes sobrenaturais os tornam quase deuses. Mare rouba o que pode para ajudar sua família a sobreviver e não tem esperanças de escapar do vilarejo miserável onde mora. Entretanto, numa reviravolta do destino, ela consegue um emprego no palácio real, onde, em frente ao rei e a toda a nobreza, descobre que tem um poder misterioso Mas como isso seria possível, se seu sangue é vermelho? Em meio às intrigas dos nobres prateados, as ações da garota vão desencadear uma dança violenta e fatal, que colocará príncipe contra príncipe - e Mare contra seu próprio coração." ,
+                  "price":"54.90" ,
+                  "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/198702-1200-auto?v=638071522244700000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 10,
+                  "name": "Livro das perguntas",
+                  "publishing": "Publibooks Livros e Papeis Ltda. L&PM",
+                  "author": "Neruda, Pablo",
+                  "description":"Este livro é composto de 74 poemas curtos, sem título, onde o poeta preocupa-se em propor questões - sobre animais, sobre ele próprio, sobre o transcorrer da vida - e convida o leitor a respondê-las ou, pelos menos, a refletir sobre elas." ,
+                  "price":"26.90" ,
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/200640-1200-auto?v=638078319729600000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 11,
+                  "name": "Solidão acompanhada",
+                  "publishing": "Editora Globo S/A",
+                  "author": "Silva, Ana Beatriz Barbosa; Palma, Lauren",
+                  "description":"Uma obra divertida sobre a loucura de ser uma mulher jovem nos dias de hoje. Solidão acompanhada marca mais uma incursão da consagrada psiquiatra Ana Beatriz Barbosa Silva na ficção, desta vez em parceria com a estreante Lauren Palma. Eleonora, a protagonista, está solteira, mora num quarto e sala bancado por seus pais e não tem muita ideia do que fazer com a tela em branco que parece ser sua vida. Seu mundo é extremamente conectado, embora ela tenha uma crescente noção de que cada pessoa é, mais do que nunca, uma ilha. Enquanto tenta arrumar um amor, uma vocação, um grupo de amigos, o sucesso nas redes sociais e algum sentido para sua existência, Eleonora diverte o leitor com as confusões do seu dia a dia e suas observações ácidas e sagazes sobre o mundo que a cerca. Impossível não se identificar. " ,
+                  "price": "50.9",
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/200803-1200-auto?v=638078541131630000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 12,
+                  "name":"O caçador de pipas" ,
+                  "publishing":"Editora Globo S/A" ,
+                  "author":"Hosseini, Khaled" ,
+                  "description": "Publicado em mais de 70 países e com a marca de mais de 2 milhões de exemplares vendidos apenas no Brasil, o aclamado livro O caçador de pipas, romance de estreia de Khaled Hosseini, está de volta em nova edição. O romance narra a tocante história da amizade entre Amir e Hassan, dois meninos que vivem no Afeganistão da década de 1970. Durante um campeonato de pipas, Amir perde a chance de defender Hassan, num episódio que marca a vida dos dois amigos para sempre. Vinte anos mais tarde, quando Amir está estabelecido nos Estados Unidos, após ter abandonado um Afeganistão tomado pelos soviéticos, ele retorna a seu país de origem e é obrigado a acertar as contas com o passado. Transformado em filme em 2007 pelo diretor Marc Forster, o romance há 10 anos emociona leitores de todo o mundo. A nova edição publicada pela Globo Livros traz um prefácio especial do autor, no qual ele fala sobre a semelhança entre a ficção de O caçador de pipas e sua própria realidade depois de 27 anos exilado nos Estados Unidos, e já tendo concluído seu primeiro romance, Khaled Hosseini retornou a Cabul e passou por algumas das mesmas experiências vividas pelo personagem Amir ao regressar a sua cidade natal. A edição também conta com nova tradução, de Claudio Carina, e nova capa, assinada por Victor Burton. Representante da Organização das Nações Unidas desde 2006, Hosseini faz dos seus livros não apenas uma narrativa sensível e encantadora, mas também um canal de denúncia, desabafo e engajamento social necessário para o debate de grandes questões morais e humanitárias que afetam o século XXI. Em maio de 2013 a Globo Livros publicou O silêncio das montanhas, que já vendeu mais de 200 mil exemplares e se mantém na lista dos livros mais vendidos desde seu lançamento.",
+                  "price": "38.70",
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/200613-1200-auto?v=638078280990900000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 13,
+                  "name": "A paciente silenciosa",
+                  "publishing": "Editora Record Ltda.",
+                  "author": "Michaelides, Alex",
+                  "description": " Só ela sabe o que aconteceu. Só ele pode fazê-la falar.A paciente silenciosa é um daqueles livros que não saem da cabeça do leitor, quer ele queira, quer não. Alicia Berenson tinha uma vida perfeita. Ela era uma pintora famosa casada com um fotógrafo bem-sucedido e morava numa área nobre de Londres que dá para o parque de Hampstead Heath. Certa noite, Gabriel, seu marido, voltou tarde para casa depois de um ensaio para a em Vogue, e de repente a vida de Alicia mudou completamente...  Alicia tinha 33 anos quando deu cinco tiros no rosto do marido, e ela nunca mais disse uma palavra. A recusa de Alicia a falar ou a dar qualquer explicação transforma essa tragédia doméstica em algo muito maior - um mistério que atrai a atenção do público e aumenta ainda mais a fama da pintora. Entretanto, enquanto seus quadros passam a ser mais valorizados que nunca, ela é levada para o Grove, um hospital psiquiátrico judiciário na zona norte de Londres. Enquanto isso, Theo Faber é um psicoterapeuta forense que espera há muito tempo por uma oportunidade de trabalhar com Alicia. Ele tem certeza de que é a pessoa certa para lidar com o caso. No entanto, sua determinação para fazê-la falar e desvendar o mistério de por que ela atirou no marido o arrasta para um caminho tortuoso que sugere que as raízes do silêncio de Alicia são muito mais profundas do que ele jamais poderia imaginar.  Porém, se ela falar, ele será capaz de ouvir a verdade? ",
+                  "price": "50.90",
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/198425-1200-auto?v=638068125353030000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 14,
+                  "name":"Cartas de um diabo a seu aprendiz",
+                  "publishing":"Vida Melhor Editora S.A" ,
+                  "author":"Lewis, C. S" ,
+                  "description": "Irônica, astuta, irreverente. Assim pode ser descrita esta obra-prima de C.S. Lewis, dedicada a seu amigo J.R.R. Tolkien. Um clássico da literatura cristã, este retrato satírico da vida humana, feito pelo ponto de vista do diabo, tem divertido milhões de leitores desde sua primeira publicação, na década de 1940; agora com novo projeto gráfico e tradução atual.Cartas de um diabo a seu aprendiz é a correspondência ao mesmo tempo cômica, séria e original entre um diabo e seu sobrinho aprendiz. Revelando uma personalidade mais espirituosa, Lewis apresenta nesta obra a mais envolvente narrativa já escrita sobre tentações e a superação delas.",
+                  "price":"34.90" ,
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/198464-1200-auto?v=638068164936030000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 15,
+                  "name": "Agatha Christie - mistérios dos anos 20",
+                  "publishing": "Publibooks Livros e Papeis Ltda. L&PM",
+                  "author": "Christie, Agatha",
+                  "description":"Agatha Christie nasceu em 15 de setembro de 1890 em Torquay, na Inglaterra. Uma grande fã de histórias de suspense, ela trabalhou em um hospital e em uma farmácia durante a Primeira Guerra Mundial e, em seu tempo livre, começou a escrever as próprias histórias. A familiaridade com medicamentos e substâncias químicas seria decisiva para a elaboração de tramas intrincadas, já que várias das mortes em sua obra são causadas por envenenamentos. Em 1920 escreveu seu primeiro romance, O misterioso caso de Styles, que foi rejeitado por seis editoras antes de ser publicado. O sucesso mesmo só veio em 1926, com o livro O assassinato de Roger Ackroyd, considerado uma obra-prima. Além de romances, a autora também escreveu dezenas de contos, poemas e peças de teatro, e seus livros foram levados à televisão e ao cinema, com grande sucesso. A peça A ratoeira está em cartaz em Londres desde a estreia, em 1952 um recorde mundial. Agatha Christie deixou sua marca na literatura policial com a criação de dois dos personagens mais emblemáticos desse universo: o detetive belga Hercule Poirot e a perspicaz Miss Marple. Cada um, à sua maneira, resolve os mais obscuros e misteriosos casos de crime e assassinato. Além dos livros de suspense, Agatha Christie escreveu seis romances sob o pseudônimo de Mary Westmacott. Após cinquenta anos de uma prolífica e exitosa carreira, a autora faleceu em 12 de janeiro de 1976." ,
+                  "price": "79.90",
+                  "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/200225-1200-auto?v=638076844470530000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 16,
+                  "name":"A filha perdida" ,
+                  "publishing": "Intrínseca" ,
+                  "author":"Ferrante, Elena" ,
+                  "description": " A adaptação do romance em A filha perdida chega à Netflix dia 31 de dezembro. O terceiro romance da autora que se consagrou por sua Tetralogia Napolitana é centrado nos sentimentos conflitantes de Leda, uma professora universitária de meia-idade, que na adaptação cinematográfica é interpretada pela vencedora do Oscar Olivia Colman. Aliviada depois de as filhas já crescidas se mudarem para o Canadá com o pai, Leda decide tirar férias no litoral sul da Itália. Logo nos primeiros dias na praia, conhece Nina (Dakota Johnson) e sua pequena filha, Elena, e fica obcecada por ambas. A proximidade com a jovem mãe desencadeia uma enxurrada de lembranças da própria vida de Leda e evoca segredos que ela nunca conseguiu revelar a ninguém. Cercada de parentes autoritários e imersa nos cuidados com a filha, Nina parece perfeitamente à vontade no papel de mãe e faz Leda se lembrar de si mesma nos tempos de juventude, quando ainda era cheia de desejos e expectativas. No estilo inconfundível que a tornou conhecida no mundo todo, Elena Ferrante parte de elementos simples para construir uma narrativa poderosa sobre a maternidade e as consequências que a família pode ter na vida de diferentes gerações de mulheres. " ,
+                  "price":"39.90" ,
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/199487-1200-auto?v=638074949609500000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 17,
+                  "name": "A metamorfose / O veredicto",
+                  "publishing": "Publibooks Livros e Papeis Ltda. L&PM",
+                  "author": "Kafka, Franz",
+                  "description":"Em A metamorfose o leitor é colocado diante de um caixeiro-viajante - Gregor Samsa - transformado em um inseto monstruoso. A partir daí, a história é narrada associando o inverossímil e o senso de humor ao que é trágico, grotesco e cruel na condição humana. E em O Veredicto é abordado o conflito kafkaniano entre pai e filho numa atmosfera expressionista." ,
+                  "price": "19.90" ,
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/200257-1200-auto?v=638077409016770000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id":18 ,
+                  "name":"A vida mentirosa dos adultos" ,
+                  "publishing":"Intrínseca" ,
+                  "author":"Ferrante, Elena" ,
+                  "description": "Em aguardado romance inédito após o sucesso da Tetralogia Napolitana, autora narra os conflitos da adolescência em uma cidade dividida. As mudanças no rosto de Giovanna anunciam o início da adolescência e não passam despercebidas em casa. Dois anos antes de abandonar a família e o confortável apartamento no centro de Nápoles, Andrea não se dá conta do que sentencia quando sussurra para a esposa que a filha é muito feia. Essa feiura estética, mas que também indica uma possível falha de caráter, recai sobre Giovanna como uma herança indesejável de Vittoria, a irmã há muito renegada por Andrea. Aos doze anos, a menina vê um rosto no espelho e, embora não compreenda a fundo o peso daquela comparação, sente que algo está irremediavelmente à beira de um abismo. O amor e a proteção oferecidos pelo lar são as primeiras estruturas a desmoronar quando Giovanna decide conhecer a mulher que pode encarnar seu futuro. Os encontros com a tia são o ponto de partida para o embate com inúmeras questões existenciais é possível pertencer a algum lugar em uma Nápoles de contrastes entre o cinza industrial e sua sociedade rica e instruída? Ou transcender os erros e pecados cada vez mais aparentes de pais outrora perfeitos? Como sobreviver ao despertar do desejo? Ao longo dos anos acompanhamos os percalços da transição da infância protegida de Giovanna a uma adolescência exposta às complexidades daqueles que a cercam, evocando também a possibilidade de levar a vida adulta como nenhuma outra mulher fizera até então. Um romance extraordinário sobre transições, paixões e descobertas.",
+                  "price": "51.90",
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/199335-1200-auto?v=638074216926970000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id":19 ,
+                  "name": "Testemunha ocular do crime" ,
+                  "publishing": "Publibooks Livros e Papeis Ltda. L&PM" ,
+                  "author": "Christie, Agatha" ,
+                  "description": "Uma história de detetive perfeita. Não há um só momento entediante. The Times Após um dia de compras em Londres, Elspeth McGillicuddy pega um trem para o interior da Inglaterra, onde deve se encontrar com a amiga Jane Marple. Instalada na primeira classe, ela observa a paisagem, até que outro trem passa no mesmo sentido e, por um instante, as janelas dos vagões se alinham. Ela vislumbra a imagem de um homem estrangulando uma mulher. Na estação, ninguém acredita em Elspeth, e nenhum cadáver é encontrado. Mas Miss Marple não se dissuade fácil. Para investigar esse mistério, ela contará com o auxílio do seu sobrinho-neto David e de Lucy Eyelesbarrow, uma carismática personagem que faz neste romance sua única e marcante aparição." ,
+                  "price": "42.90" ,
+                  "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/200658-1200-auto?v=638078335737900000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id":20 ,
+                  "name": "A Elite" ,
+                  "publishing": "Editora Schwarcz SA",
+                  "author": "Cass, Kiera",
+                  "description": "A vida no palácio não era tão ruim quanto America imaginava. Ou melhor: com todos os mimos e privilégios que estava tendo, ela já mal se lembrava de como era pertencer à casta Cinco. Ser Um, em compensação, era fácil: suas criadas eram costureiras talentosíssimas e faziam vestidos maravilhosos; os banquetes e as festas que frequentava eram incrivelmente divertidos; e o conforto em que vivia agora seria impensável alguns meses atrás. Além de tudo, quando sentia saudade de casa, tinha Aspen por perto. Ele era compreensivo, companheiro e tinha decidido colocar sua vida em perigo por ela - afinal, o que aconteceria se alguém descobrisse que, além de guarda do palácio, era ex-namorado de uma das candidatas? Era com Aspen que America contava nas horas mais difíceis. Por outro lado, o príncipe Maxon era atraente, bondoso, carinhoso e - o mais importante - desejava America mais do que qualquer outra garota da Elite. Mas, além de estar com o coração secretamente dividido, também era difícil lidar com o fato de que aceitar Maxon significava ter que aceitar uma coroa. America não tinha certeza se gostaria de ser uma princesa. Apesar da vida glamorosa, havia tantas coisas com as quais ela não concordava e que permaneciam sem explicação: por que o palácio sofria tantos ataques rebeldes? O que era reivindicado? Por que os castigos aos infratores tinham de ser tão violentos? O que estava por trás daquele regime de castas tão cruel? O tempo está acabando e as dúvidas de America só aumentam." ,
+                  "price": "26.90",
+                  "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/204572-1200-auto?v=638079372371770000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id":21 ,
+                  "name":"A guerra dos tronos" ,
+                  "publishing":"Suma" ,
+                  "author":"R.R. MARTIN, GEORGE" ,
+                  "description":"A guerra dos tronos é o primeiro livro da série best-seller internacional As Crônicas de Gelo e Fogo, que deu origem à adaptação de sucesso da HBO, Game of Thrones . O verão pode durar décadas. O inverno, toda uma vida. E a guerra dos tronos começou. Como Guardião do Norte, lorde Eddard Stark não fica feliz quando o rei Robert o proclama a nova Mão do Rei. Sua honra o obriga a aceitar o cargo e deixar seu posto em Winterfell para rumar para a corte, onde os homens fazem o que lhes convém, não o que devem... e onde um inimigo morto é algo a ser admirado. Longe de casa e com a família dividida, Eddard se vê cada vez mais enredado nas intrigas mortais de Porto Real, sem saber que perigos ainda maiores espreitam a distância. Nas florestas ao norte de Winterfell, forças sobrenaturais se espalham por trás da Muralha que protege a região. E, nas Cidades Livres, o jovem Rei Dragão exilado na Rebelião de Robert planeja sua vingança e deseja recuperar sua herança de família: o Trono de Ferro de Westeros. “ A guerra dos tronos é a maior obra de fantasia desde que Bilbo encontrou o Anel.” — SF Reviews" ,
+                  "price":"39.90" ,
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/198812-1200-auto?v=638072250124070000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 22,
+                  "name": "Amoras",
+                  "publishing": "Editora Schwarcz SA",
+                  "author":"Emicida" ,
+                  "description":"Em seu primeiro livro infantil, Emicida conta uma história cheia de simplicidade e poesia, que mostra a importância de nos reconhecermos nos pequenos detalhes do mundo. Na música “Amoras”, Emicida canta: “Que a doçura das frutinhas sabor acalanto/ Fez a criança sozinha alcançar a conclusão/ Papai que bom, porque eu sou pretinha também”. E é a partir desse rap que um dos artistas brasileiros mais influentes da atualidade cria seu primeiro livro infantil e mostra, através de seu texto e das ilustrações de Aldo Fabrini, a importância de nos reconhecermos no mundo e nos orgulharmos de quem somos — desde criança e para sempre. “Um livro que rega as crianças com o olhar cristalino de quem sonha plantar primaveras para colher o fruto doce da humanidade.” — Sérgio Vaz" ,
+                  "price": "20.90",
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/198547-1200-auto?v=638068911357530000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 23,
+                  "name": "O PEQUENO PRÍNCIPE" ,
+                  "publishing":"Ciranda Cultural" ,
+                  "author": "Saint-Exupéry, Antoine",
+                  "description": "Escrita há mais de 70 anos e traduzida em quase 250 idiomas, O Pequeno Príncipe é uma obra-prima universal, repleta de poesia e emoção, que ultrapassa a ação do tempo. Uma obra simples, mas fundamental, que nos ensina a desvendar os segredos do que realmente é importante na vida." ,
+                  "price":"13.26" ,
+                  "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/163444-1200-auto?v=638006212924630000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id":24 ,
+                  "name": "A menina que roubava livros" ,
+                  "publishing": "Intríseca",
+                  "author":"Zusak, Markus" ,
+                  "description":"Ao perceber que a pequena Liesel Meminger, uma ladra de livros, lhe escapa, a Morte afeicoa-se a menina e rastreia suas pegadas de 1939 a 1943. A mae comunista, perseguida pelo nazismo, envia Liesel e o irmao para o suburbio pobre de uma cidade alema, onde um casal se dispoe a adota-los por dinheiro. O garoto morre no trajeto e e enterrado por um coveiro que deixa cair um livro na neve. E o primeiro de uma serie que a menina vai surrupiar ao longo dos anos. O unico vinculo com a familia e esta obra, que ela ainda nao sabe ler. Assombrada por pesadelos, ela compensa o medo e a solidao das noites com a conivencia do pai adotivo, um pintor de parede bonachao que lhe da licoes de leitura. Alfabetizada sob vistas grossas da madrasta, Liesel canaliza urgencias para a literatura. Em tempos de livros incendiados, ela os furta, ou os le na biblioteca do prefeito da cidade. A vida ao redor e a pseudo-realidade criada em torno do culto a Hitler na Segunda Guerra. " ,
+                  "price": "48.60",
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/166918-1200-auto?v=638010285932100000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 25,
+                  "name": "A volta ao mundo em 80 dias" ,
+                  "publishing": "Melhoramentos",
+                  "author":"Verne, Julio" ,
+                  "description": "Uma aposta foi o bastante para Phileas Fogg e seu fiel escudeiro, Jean Passepartout, embarcarem em uma das maiores aventuras da literatura mundial, nos moldes da narrativa fantástica de Júlio Verne. O escritor francês, um dos precursores da moderna ficção-científica, narra a história de um inglês metódico, que decide dar a volta ao mundo em oitenta dias, no ano de 1872, pelo suposto motivo de uma aposta selada com alta quantia de dinheiro. Ao colocar o pé no mundo, Fogg encara diversas aventuras típicas da imaginação sinistra de Verne. Oceanos, navios a vapor, estradas de trens, selvas e até viagem sobre elefantes compõe essa jornada. Publicado em 1873, esta obra tem destaque relevante na bibliografia deste autor que, em meio aos seus romances de aventura, pressagiou diversos avanços científicos e tecnológicos da humanidade. A volta ao mundo em 80 dias leva-nos a lugares onde nunca pensamos estar e nos faz acreditar numa fantasia possível de se concretizar.",
+                  "price":"22.90" ,
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/200198-1200-auto?v=638076833598270000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 26,
+                  "name": "O cavalo amarelo",
+                  "publishing": "Publibooks Livros e Papeis Ltda. L&PM",
+                  "author":"Christie, Agatha" ,
+                  "description": "Um padre assassinado de maneira brutal. Pessoas que adoecem misteriosamente. Mulheres que dizem ter poderes paranormais. Esses são alguns dos enigmas que assombram um vilarejo na zona rural inglesa. A chave deste segredo está relacionada a uma lista de nomes. Para desvendar essa trama, Mark Easterbrook, um escritor em busca de inspiração, conta com a ajuda de seus amigos, entre eles, a famosa autora de romances de mistério Ariadne Oliver, numa aventura que pode ser fatal.",
+                  "price": "26.90",
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/201046-1200-auto?v=638079241292870000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 27,
+                  "name": "Amor e amizade & outras histórias",
+                  "publishing":"Publibooks Livros e Papeis Ltda. L&PM" ,
+                  "author":"Austen, Jane" ,
+                  "description":"Jane Austen (1775-1817), uma das romancistas mais importantes da literatura universal, viu os quatro romances que publicou em vida caírem na graça do público. Depois de sua morte precoce, surgiram mais algumas obras póstumas, e os admiradores e leitores de Austen só aumentaram com o tempo, como atesta sua popularidade no início do século XXI. Porém, são pouco conhecidos entre nós os primeiros trabalhos da autora, que começou a escrever ainda criança. Este volume traz três desses textos ficcionais de juventude, todos na forma de narrativas epistolares contadas através de cartas. A novela Amor e amizade , de 1790, mostra a troca de correspondência entre Laura, uma mulher madura, e Marianne, a jovem filha de uma amiga. Laura relata as desventuras amorosas da sua mocidade, à guisa de alerta. A história inclui amores proibidos e fugas da família, além de muitos e hilários desmaios. As três irmãs e Uma coleção de cartas , escritas entre 1791 e 1792, dão novas amostras do estilo cômico e do gênio que se tornariam marca registrada da grande autora." ,
+                  "price": "19.90",
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/200719-1200-auto?v=638078501320430000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id":28 ,
+                  "name":"Liberdade crônica" ,
+                  "publishing":"Publibooks Livros e Papeis Ltda. L&PM" ,
+                  "author":"Medeiros, Martha" ,
+                  "description":"Liberdade, essa palavra que o sonho humano alimenta... Como conciliá-la com as exigências da vida de todo dia, com os limites de uma relação amorosa, com a nossa família, com as nossas próprias e mundanas precariedades? A necessidade de liberdade e a busca pelo equilíbrio são aspectos muito presentes na obra de Martha Medeiros. Este volume reúne as crônicas de seus 20 anos de carreira sobre A mulher contemporânea, Livros, filmes, músicas etc, Fé e equilíbrio, No divã e Sociedade, e debate nossa eterna luta para combinar a ânsia por liberdade com nossas demais aspirações." ,
+                  "price":"43.90" ,
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/200288-1200-auto?v=638077448263430000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 29,
+                  "name": "Por que eu escrevo & outros textos",
+                  "publishing":"Publibooks Livros e Papeis Ltda. L&PM" ,
+                  "author":"Orwell, George" ,
+                  "description":"Orwell era o amálgama de todo e qualquer homem que busca diligentemente a verdade, não importando quão desagradáveis suas implicações para os outros e até para si mesmo. George Woodcock George Orwell foi um dos autores de língua inglesa mais aclamados do século XX. Hoje é amplamente conhecido pelos clássicos A Fazenda dos Animais e 1984, publicados nos últimos anos de uma vida abreviada pela morte precoce. Mas foi com textos de não ficção que ele construiu sua carreira de jornalista e escritor. Poucas são as mentes que aliaram como ele a preocupação com a forma e o estilo a uma visão de mundo humanista, democrática e inconformada com injustiças. Este volume reúne uma seleção dos treze melhores ensaios e textos curtos de não ficção lavrados pelo genial autor, agrupados por tema. A seção Escrita, livrarias e livros traz textos sobre a vida de escritor e sobre a intelectualidade, além de Por que eu escrevo , em que Orwell faz sua profissão de fé e adianta uma consideração polêmica à época: A opinião de que a arte não deve ter nada a ver com a política é, ela mesma, uma atitude política . Lembranças de um guarda imperial abarca três artigos magistrais em que o escritor relata episódios dos anos em que trabalhou como membro das forças da lei nas colônias britânicas experiência que moldou seu antitotalitarismo e anti-imperialismo; entre eles, o lapidar Abatendo um elefante , uma reflexão sobre a violência. Em Marginalizados , estão coligidos Um dia na vida de um vagabundo e Mendigos em Londres , amostras das várias reportagens e textos que o autor escreveu sobre o cotidiano de pessoas sem teto. Em Política e sociedade , o leitor encontrará artigos sobre a liberdade de imprensa e nacionalismo, além do clássico O que é o fascismo . A última seção, Memórias de infância , traz o texto de 1947 Tais, tais eram as alegrias , em que ele, homem maduro, rememora as experiências escolares que ajudaram a forjar seu caráter inconformista. Em 1946, Orwell concluiu: Quando começo a escrever um livro, não digo a mim mesmo: Vou criar uma obra de arte . Escrevo porque há alguma mentira que quero desmascarar, algum fato para o qual quero chamar a atenção ... . Eis o melhor da prosa não ficcional de um autor combativo e comprometido como poucos com as questões de seu tempo questões que na verdade dizem respeito a aspirações universais e atemporais do ser humano, como liberdade e justiça. Estes textos farão o deleite de todos os apreciadores de valores humanistas expressos em uma prosa irretocável.",
+                  "price": "37.00",
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/201068-1200-auto?v=638079257181270000&width=1200&height=auto&aspect=true"
+            },
+            {
+                  "id": 30,
+                  "name":"Harry Potter e o Prisioneiro de Azkaban" ,
+                  "publishing":"Rocco" ,
+                  "author":"ROWLING, J.K." ,
+                  "description":"As aulas estão de volta à Hogwarts e Harry Potter não vê a hora de embarcar no expresso a vapor que o levará de volta à escola de bruxaria. Mais uma vez suas férias na rua dos Alfeneiros foi triste e solitária. Com muita ação, humor e magia, Harry Potter e o prisioneiro de Azkaban traz de volta o gigante atrapalhado Rúbeo Hagrid, o sábio diretor Alvo Dumbledore, a exigente professora de transformação Minerva MacGonagall e o novo mestre Lupin, que guarda grandes surpresas para Harry." ,
+                  "price": "44.90",
+                  "image":"https://lojasaraivanew.vtexassets.com/arquivos/ids/199551-1200-auto?v=638075015673270000&width=1200&height=auto&aspect=true"
+            }
+      ],
+      "employee": [
+            {
+                  "id": 1,
+                  "name": "João Alves",
+                  "office": "Auxilar de Faturamento",
+                  "department": "Comercial"
+            },
+            {
+                  "id": 2,
+                  "name": "Julio Silva",
+                  "office": "Auxilar Administrativo",
+                  "department": "Logística"
+            },
+            {
+                  "id": 3,
+                  "name": "Bianca Costa",
+                  "office": "Auxilar Administrativo",
+                  "department": "Logística"
+            },
+            {
+                  "id": 4,
+                  "name": "Lindalva Cristina",
+                  "office": "Auxilar Administrativo",
+                  "department": "Logística"
+            }
+      ]
 }
