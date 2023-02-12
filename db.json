@@ -3,6 +3,8 @@
             {
                   "id": 1,
                   "name": "João Silva",
+                  "email": "joao@umemail.com",
+                  "tel":"21999999999",
                   "login": "joao1",
                   "password": "adm123",
                   "cpf": "12312312312",
@@ -10,11 +12,14 @@
                   "number": 14,
                   "neighborhood": "Um bairro",
                   "city": "Rio de Janeiro",
+                  "uf":"RJ",
                   "cep": "1212312"
             },
             {
                   "id": 2,
                   "name": "Maria Silva",
+                  "email": "maria@umemail.com",
+                  "tel":"21999999999",
                   "login": "maria1",
                   "password": "adm123",
                   "cpf": "12312312313",
@@ -22,11 +27,14 @@
                   "number": 14,
                   "neighborhood": "Um bairro",
                   "city": "Rio de Janeiro",
+                  "uf":"RJ",
                   "cep": "1212312"
             },
             {
                   "id": 3,
                   "name": "Roberto Silva",
+                  "email": "roberto@umemail.com",
+                  "tel":"21999999999",
                   "login": "roberto1",
                   "password": "adm123",
                   "cpf": "12312312314",
@@ -34,6 +42,7 @@
                   "number": 14,
                   "neighborhood": "Um bairro",
                   "city": "Rio de Janeiro",
+                  "uf":"RJ",
                   "cep": "1212312"
             }
       ],
